@@ -1,6 +1,6 @@
-# LeetCode Daily Solutions
+# DSA Daily Solutions
 
-Daily LeetCode solutions written in C++ with problem descriptions and notes.
+Daily DSA and LeetCode solutions written in C++ with problem descriptions and notes.
 
 ## Repository layout
 
