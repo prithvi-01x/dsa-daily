@@ -27,6 +27,7 @@ Each solved problem includes:
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | [leetcode2904.cpp](leetcode2904.cpp) | [leetcode2904.md](leetcode2904.md) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | [leetcode3720.cpp](leetcode3720.cpp) | [leetcode3720.md](leetcode3720.md) |
 | 3870 | Count Commas in Range | [leetcode3870.cpp](leetcode3870.cpp) | [leetcode3870.md](leetcode3870.md) |
+| 3871 | Count Commas in Range II | [leetcode3871.cpp](leetcode3871.cpp) | [leetcode3871.md](leetcode3871.md) |
 
 ## Compiling locally
 
